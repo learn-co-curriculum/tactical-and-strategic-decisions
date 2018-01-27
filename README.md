@@ -11,4 +11,8 @@ Be prepared to share and discuss your thoughts in class.
 
 Input your thoughts and notes for discussion below.
 
+<textarea style="width: 100%; height: 400px; margin-top: 20px;"></textarea>
+
+<input type="submit" class="button">
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/tactical-and-strategic-decisions'>Tactical and Strategic Decisions</a> on Learn.co and start learning to code for free.</p>
