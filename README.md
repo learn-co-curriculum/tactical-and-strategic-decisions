@@ -11,8 +11,10 @@ Be prepared to share and discuss your thoughts in class.
 
 Input your thoughts and notes for discussion below.
 
-<textarea style="width: 100%; height: 400px; margin-top: 20px;"></textarea>
+<textarea style="width: 100%; height: 400px; margin-top: 20px; padding: 20px;font-size: 16px;"></textarea>
 
 <input type="submit" class="button">
+
+<div class="textarea-group"><textarea class="textarea-group__textarea" placeholder="Type in your question..." style="width: 100%; height: 400px;" rows="4"></textarea><div class="textarea-group__foot" style="margin-top: -7px;"><div class="media-block util--padding-lm"><div class="media-block__content media-block__content--fill"><p>Tic Tac Toe</p></div><div class="media-block__media"><div class="button button--corners-tight button--color-purple button--height-small">Submit</div></div></div></div></div>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/tactical-and-strategic-decisions'>Tactical and Strategic Decisions</a> on Learn.co and start learning to code for free.</p>
